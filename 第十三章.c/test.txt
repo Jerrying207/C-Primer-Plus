@@ -1,0 +1,4 @@
+apple is red
+banana is yellow
+orange is orange
+I like apple pie.
